@@ -2,10 +2,25 @@
  "bodyMP.png": "tex/bodyMP_Normal.png",
  "materialOverrides": {
   "Neck": {
-   "diffuse": "tex/bodyMP_skin.png"
+   "color": [
+    0.78,
+    0.74,
+    0.72
+   ]
   },
   "Hand": {
-   "diffuse": "tex/bodyMP_skin.png"
+   "color": [
+    0.75,
+    0.71,
+    0.69
+   ]
+  },
+  "Body": {
+   "color": [
+    0.8,
+    0.76,
+    0.74
+   ]
   }
  }
 }
