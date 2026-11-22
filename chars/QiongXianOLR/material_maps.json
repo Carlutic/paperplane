@@ -1,4 +1,14 @@
 {
- "bodyMP.png": "tex/bodyMP_Normal.png",
- "laceeye.png": "tex/laceeye_Normal.png"
+ "bodyMP_skin.png": "tex/bodyMP_Normal.png",
+ "materialOverrides": {
+  "Neck": {
+   "diffuse": "tex/bodyMP_skin.png"
+  },
+  "Body": {
+   "diffuse": "tex/bodyMP_skin.png"
+  },
+  "Hand": {
+   "diffuse": "tex/bodyMP_skin.png"
+  }
+ }
 }
