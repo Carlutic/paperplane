@@ -1,10 +1,7 @@
 {
- "bodyMP_skin.png": "tex/bodyMP_Normal.png",
+ "bodyMP.png": "tex/bodyMP_Normal.png",
  "materialOverrides": {
   "Neck": {
-   "diffuse": "tex/bodyMP_skin.png"
-  },
-  "Body": {
    "diffuse": "tex/bodyMP_skin.png"
   },
   "Hand": {
