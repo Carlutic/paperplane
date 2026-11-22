@@ -11,7 +11,8 @@
   "directory": "chars/EnyaSwimR",
   "image": "Covers/EnyaSwimR.png",
   "pmx": "恩雅-羽蜕-浅憩之处(R).pmx",
-  "base": "https://carlutic.github.io/paperplane/"
+  "base": "https://carlutic.github.io/paperplane/",
+  "noPhysics": true
  },
  {
   "id": 190002,
@@ -25,6 +26,7 @@
   "directory": "chars/QiongXianOLR",
   "image": "Covers/QiongXianOLR.png",
   "pmx": "QiongXian_OL(R).pmx",
-  "base": "https://carlutic.github.io/paperplane/"
+  "base": "https://carlutic.github.io/paperplane/",
+  "noPhysics": true
  }
 ]
