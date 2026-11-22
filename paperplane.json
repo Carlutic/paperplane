@@ -1,0 +1,30 @@
+[
+ {
+  "id": 190001,
+  "name": "Enya",
+  "displayName": "恩雅·羽蜕 浅憩之处(R)",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/EnyaSwimR",
+  "image": "Covers/EnyaSwimR.png",
+  "pmx": "恩雅-羽蜕-浅憩之处(R).pmx",
+  "base": "https://carlutic.github.io/paperplane/"
+ },
+ {
+  "id": 190002,
+  "name": "QiongXian",
+  "displayName": "姬辰星 OL(R)",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/QiongXianOLR",
+  "image": "Covers/QiongXianOLR.png",
+  "pmx": "QiongXian_OL(R).pmx",
+  "base": "https://carlutic.github.io/paperplane/"
+ }
+]
